@@ -11,7 +11,7 @@
 ## 🚀 如何获取本项目（无论电脑端还是手机端）
 
 请按照以下三步操作：
-
+![Star -> Fork -> Download 流程示意图](./Mobile/demo.png)
 1. **⭐ Star**  
    点击本仓库右上角的 **Star** 按钮，支持本项目（方便你下次快速找到）。
 
@@ -27,12 +27,6 @@
    - **方式三（仅手机端 APK）**：直接下载 [demo_video.mp4](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker/raw/main/Mobile/demo_video.mp4) 预览效果，或使用手机端 README 中的 Python 脚本下载 APK。
 
 > 💡 **电脑端** 代码位于 `desktop/` 文件夹，**手机端** 脚本位于 `mobile/` 文件夹。下载后请根据对应子项目的 README 进行操作。
-
-### 操作流程示意图
-
-![Star -> Fork -> Download 流程示意图](./Mobile/demo.png)
-
-*上图展示了从 Star、Fork 到 Download 的完整操作流程，按照红色箭头顺序操作即可。*
 
 ---
 
